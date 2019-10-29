@@ -14,5 +14,5 @@ get '/' do
     @session = session
     erb :checkout
   end
-end 
+end
 end
